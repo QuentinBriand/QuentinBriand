@@ -1,7 +1,7 @@
 <h3 align="center">A passionate developer from Nice | France. 🇫🇷</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBriand&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdivers&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuentinBriand&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
 </p>
 
