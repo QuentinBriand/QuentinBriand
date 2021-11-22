@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinbriand&layout=compact&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuentinBriand&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuentinBriand&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true"/>
 </p>
 
 <p align="center">
