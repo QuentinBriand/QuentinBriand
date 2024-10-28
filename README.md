@@ -1,12 +1,12 @@
 <h3 align="center">A passionate developer from Nice | France. 🇫🇷</h3>
 <p align="center">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinbriand&layout=compact&theme=tokyonight" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBriand&layout=compact&theme=tokyonight" />
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=QuentinBriand&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats"/>
 </p>
 
 <h2 align="center">✨ My Projects ✨</h2>
 <p align="center">
-  <a href="https://quentinbriand.github.io/Conways-Game-Of-Life/" target="_blank",><img src="https://github.com/QuentinBriand/Conways-Game-Of-Life/blob/main/logo.png" alt="convays" width="80" height="80"/></a>
+  <a href="https://github.com/QuentinBriand/MysteryDungeon" target="_blank",><img src="https://github.com/QuentinBriand/MysteryDungeon/blob/main/readme_resources/logo.png" alt="MysteryDungeon" width="80" height="80"/></a>
 </p>
 
 <h2 align="center">My Languages 📚</h2>
