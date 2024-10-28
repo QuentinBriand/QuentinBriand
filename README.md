@@ -7,6 +7,7 @@
 <h2 align="center">✨ My Projects ✨</h2>
 <p align="center">
   <a href="https://github.com/QuentinBriand/MysteryDungeon" target="_blank",><img src="https://github.com/QuentinBriand/MysteryDungeon/blob/main/readme_resources/logo.png" alt="MysteryDungeon" width="80" height="80"/></a>
+<a href="https://github.com/QuentinBriand/AdventOfCode2023" target="_blank",><img src="https://github.com/QuentinBriand/AdventOfCode2023/blob/main/resources/logo.png" alt="AdventOfCode2023" width="80" height="80"/></a>
 </p>
 
 <h2 align="center">My Languages 📚</h2>
